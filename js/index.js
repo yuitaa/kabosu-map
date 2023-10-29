@@ -62,7 +62,7 @@ window.onload = () => {
   for (let x = -10; x <= 9; x++) {
     for (let y = -9; y <= 10; y++) {
       L.imageOverlay(
-        `./../img/tiles/zzzzzz_${x * 64}_${
+        `./img/tiles/zzzzzz_${x * 64}_${
           y * 64
         }.jpg`,
         [
