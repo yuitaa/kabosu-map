@@ -75,7 +75,7 @@ window.onload = () => {
 
   map.createPane("markers");
   map.setView([0, 0]);
-  map.zoomControl.setPosition("bottomright");
+  map.zoomControl.setPosition("topright");
 
   fetch("./data/markers.json")
     .then((response) => response.json())
