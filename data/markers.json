@@ -150,5 +150,46 @@
             {"position": [0, 2500], "tooltip": "スポーン地点"},
             {"position": [0, 5000], "tooltip": "ショップ地区"}
         ]
+    },
+    {
+        "type": "icons",
+        "pane": "",
+        "icon": "img/icons/bighouse.png",
+        "data": [
+            {"position": [-4098, 6710], "tooltip": "シンデレラ城"},
+            {"position": [-3876, 7076], "tooltip": "ホグワーツ魔術学校"},
+            {"position": [-767, -847], "tooltip": "森の洋館"}
+        ]
+    },
+    {
+        "type": "icons",
+        "pane": "",
+        "icon": "img/icons/temple.png",
+        "data": [
+            {"position": [0, -2500], "tooltip": "不思議なピラミッド"}
+        ]
+    },
+    {
+        "type": "icons",
+        "pane": "",
+        "icon": "img/icons/tree.png",
+        "data": [
+            {"position": [-4080, 2550], "tooltip": "キノコ島"}
+        ]
+    },
+    {
+        "type": "icons",
+        "pane": "warps",
+        "icon": "img/icons/compass.png",
+        "data": [
+            {"position": [-85, -7409], "tooltip": "/warp Chacha_circuit"},
+            {"position": [-19, -51], "tooltip": "/warp Fishing_Pond"},
+            {"position": [932, 69], "tooltip": "/warp museum"},
+            {"position": [6980, -7550], "tooltip": "/warp saint_oracle"},
+            {"position": [836, 755], "tooltip": "/warp Summer_Festival_2023"},
+            {"position": [460, 752], "tooltip": "/warp shorthopelove_town"},
+            {"position": [2522, -230], "tooltip": "/warp Unknown_Mall"},
+            {"position": [-1121, -5261], "tooltip": "/warp Xmas2020"}
+        ]
     }
 ]
