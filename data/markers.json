@@ -166,7 +166,8 @@
         "pane": "",
         "icon": "img/icons/temple.png",
         "data": [
-            {"position": [0, -2500], "tooltip": "不思議なピラミッド"}
+            {"position": [0, -2500], "tooltip": "不思議なピラミッド"},
+            {"position": [473, 916], "tooltip": "金閣寺"}
         ]
     },
     {
